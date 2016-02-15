@@ -7,16 +7,16 @@ body {
 	margin: 0 0 80px;
 }
 a {
-	color: #2ecc71;
+	color: #1DD3B0;
 }
 a:focus,
 a:hover {
-	color: #f1c40f;
+	color: #EACBD2;
 	text-decoration: none;
 }
 p {
 	line-height: 1.5;
-	margin: 0;
+	margin: 0;``
 }
 p + p {
 	margin-top: 10px;
@@ -64,22 +64,22 @@ h4 span:first-child {
 	margin-bottom: 10px;
 }
 .col-sm-12 h4 {
-	margin-top: 12px; 
+	margin-top: 12px;
 }
 .col-sm-12 + .col-sm-12 {
 	margin-top: 30px;
 }
 #header {
 	background: #f4f6f6;
-	padding: 50px 0;
-	margin-bottom: 30px;
+	padding: 25px 0;
+	margin-bottom: 15px;
 }
 #header h2 {
-	color: #95a5a6;
+	color: #565554;
 	font-size: 24px;
 }
 #content h3 {
-	color: #f1c40f;
+	color: #1C9CC7;
 	font-size: 26px;
 	margin-top: -4px;
 }
@@ -164,7 +164,7 @@ h4 span:first-child {
 	}
 	.strike-through span {
 		display: block;
-	}	
+	}
 	#header {
 		margin-bottom: 10px;
 		padding: 40px 0;
